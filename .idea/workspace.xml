@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f580876f-1956-40d6-9552-68a883d79b8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1hRt2BSXiIcICJ2DKaTXsz4RNfZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="autodeployer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="learn-go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learn-go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="autodeployer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/hello.go" />
+      <package value="learn-go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="autodeployer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="learn-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build learn-go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="44" key="#GOPATH" timestamp="1599985627543">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="483" y="44" key="#GOPATH/0.24.1366.744@0.24.1366.744" timestamp="1599985627543" />
+    <state x="483" y="219" key="#Go_Modules" timestamp="1599985981093">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="483" y="219" key="#Go_Modules/0.24.1366.744@0.24.1366.744" timestamp="1599985981093" />
+    <state x="393" y="185" width="578" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601200298467">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="393" y="185" width="578" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1366.744@0.24.1366.744" timestamp="1601200298467" />
+    <state x="471" y="140" key="FileChooserDialogImpl" timestamp="1599985621609">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="471" y="140" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1599985621609" />
+    <state width="1320" height="271" key="GridCell.Tab.0.bottom" timestamp="1600175735009">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="271" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1600175735009" />
+    <state width="1320" height="271" key="GridCell.Tab.0.center" timestamp="1600175735008">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="271" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1600175735008" />
+    <state width="1320" height="271" key="GridCell.Tab.0.left" timestamp="1600175735007">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="271" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1600175735007" />
+    <state width="1320" height="271" key="GridCell.Tab.0.right" timestamp="1600175735009">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="271" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1600175735009" />
+    <state width="1320" height="240" key="GridCell.Tab.1.bottom" timestamp="1600081437971">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="240" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1600081437971" />
+    <state width="1320" height="240" key="GridCell.Tab.1.center" timestamp="1600081437970">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="240" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1600081437970" />
+    <state width="1320" height="240" key="GridCell.Tab.1.left" timestamp="1600081437970">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="240" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1600081437970" />
+    <state width="1320" height="240" key="GridCell.Tab.1.right" timestamp="1600081437970">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="240" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1600081437970" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601282730094">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.24.1366.744@0.24.1366.744" timestamp="1601282730094" />
+  </component>
+</project>

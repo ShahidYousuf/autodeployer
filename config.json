@@ -1,0 +1,14 @@
+{
+  "app_config": {
+    "run_installation": false,
+    "continue_on_fail": true,
+    "notify_emails": ["shahidyousuf77@gmail.com"]
+  },
+  "app_commands": [
+    {
+      "name": "List the items",
+      "run_dir": "/home/shahid/",
+      "command": ["ls"]
+    }
+  ]
+}
