@@ -3,7 +3,7 @@ package main
 // export REPO_NAME="XMLParser"
 // export REPO_USER="ShahidYousuf"
 // export INSTALL_DIRECTIVES_PATH="/home/shahid/XMLParser/config.json"
-// export GITHUB_ACCESS_TOKEN="54b88be28372ccee6f9656dd3f33fb5096db61f7"
+// export GITHUB_ACCESS_TOKEN="-some-github-token-here"
 
 import (
 	"context"
