@@ -1,7 +1,7 @@
 {
   "app_config": {
-    "run_installation": false,
-    "continue_on_fail": true,
+    "run_installation": true,
+    "continue_on_fail": false,
     "notify_emails": ["shahidyousuf77@gmail.com"]
   },
   "app_commands": [
@@ -9,6 +9,11 @@
       "name": "List the items",
       "run_dir": "/home/shahid/",
       "command": ["ls"]
+    },
+    {
+      "name": "Activate the python environment",
+      "run_dir": "/home/shahid/",
+      "command": ["source", "/path/to/env/bin/activate"]
     }
   ]
 }
